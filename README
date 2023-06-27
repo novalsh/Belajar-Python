@@ -1,1 +1,2 @@
 Dengan menggunakan algoritma KMeans saya membuat clustering dengan 2 cluster yaitu prioritas dan nonprio dengan menggunakan centroid 
+Folder Science merupakan folder belajar data science dengan data pada file data_rumah.csv lalu akan dimasukkan kedalam code yang ada pada main.py
